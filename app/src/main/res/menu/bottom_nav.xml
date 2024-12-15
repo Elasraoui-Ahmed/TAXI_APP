@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="home"
+        android:icon="@drawable/home"
+        android:tint="@android:color/white"/>
+
+    <item
+        android:id="@+id/profile"
+        android:title="profile"
+        android:icon="@drawable/prof"
+        android:tint="@android:color/white"/>
+
+    <item
+        android:id="@+id/lang"
+        android:title="msg"
+        android:icon="@drawable/baseline_settings_24"
+        android:tint="@android:color/white"/>
+
+
+    <item
+        android:id="@+id/mode"
+        android:title="mode"
+        android:icon="@drawable/moon"
+        android:tint="@android:color/white"/>
+</menu>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:background="@color/background_screen"
+    android:gravity="center">
+
+    <!-- Lottie Animation -->
+<com.airbnb.lottie.LottieAnimationView
+android:id="@+id/lottie_lang"
+android:layout_width="200dp"
+android:layout_height="200dp"
+android:layout_marginBottom="32dp"
+app:lottie_fileName="lang.json"
+app:lottie_autoPlay="true"
+app:lottie_loop="true"
+android:elevation="8dp"
+android:translationZ="4dp"
+android:layout_gravity="center"/>
+
+<com.google.android.material.button.MaterialButton
+android:id="@+id/button_english"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="@string/english"
+android:layout_marginBottom="12dp"
+android:backgroundTint="@color/button_english"
+    android:textColor="@android:color/white"
+    android:strokeColor="@color/button_english"
+    android:paddingStart="24dp"
+    android:paddingEnd="24dp"
+    android:paddingTop="8dp"
+    android:paddingBottom="8dp"
+    android:contentDescription="@string/english" />
+
+    <!-- French Button -->
+<com.google.android.material.button.MaterialButton
+android:id="@+id/button_french"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="@string/french"
+android:layout_marginBottom="12dp"
+android:backgroundTint="@color/button_french"
+    android:textColor="@android:color/white"
+    android:strokeColor="@color/button_french"
+    android:paddingStart="24dp"
+    android:paddingEnd="24dp"
+    android:paddingTop="8dp"
+    android:paddingBottom="8dp"
+    android:contentDescription="@string/french" />
+
+    <!-- Arabic Button -->
+<com.google.android.material.button.MaterialButton
+android:id="@+id/button_arabic"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="@string/arabic"
+android:backgroundTint="@color/button_arabic"
+    android:textColor="@android:color/white"
+    android:strokeColor="@color/button_arabic"
+    android:paddingStart="24dp"
+    android:paddingEnd="24dp"
+    android:paddingTop="8dp"
+    android:paddingBottom="8dp"
+    android:contentDescription="@string/arabic" />
+
+    </LinearLayout>

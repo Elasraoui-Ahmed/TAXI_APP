@@ -1,0 +1,39 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Dark Mode Colors -->
+    <color name="grey">#121212</color> <!-- Dark gray background -->
+    <color name="vertt">#228B22</color> <!-- Darker green for button background -->
+    <color name="white">#FFFFFF</color>
+    <color name="divider">#555555</color> <!-- Dark divider color -->
+
+    <color name="green_start">#1B1B1B</color>  <!-- Dark gray -->
+    <color name="toolbar_background">#000000</color>  <!-- Black -->
+    <color name="bottom_nav_background">#000000</color>  <!-- Black -->
+    <color name="text_color">#FFFFFF</color>  <!-- White -->
+
+    <!-- White for items in the bottom nav -->
+    <color name="button_english_dark" tools:ignore="MissingDefaultResource">#BB86FC</color> <!-- Lighter purple for dark mode -->
+    <color name="button_french_dark" tools:ignore="MissingDefaultResource">#FF80AB</color>  <!-- Lighter pink for dark mode -->
+    <color name="button_arabic_dark" tools:ignore="MissingDefaultResource">#03DAC6</color>   <!-- Keep same for consistency -->
+
+    <!-- Background Color for Screen -->
+    <color name="background_screen_dark" tools:ignore="MissingDefaultResource">#121212</color> <!-- Darker background for dark mode -->
+
+    <!-- Lottie Animation Colors (Optional) -->
+    <color name="lottie_animation_bg_dark" tools:ignore="MissingDefaultResource">#2C2C2C</color> <!-- Dark background for animation -->
+    <color name="background_color">#121212</color> <!-- Dark background color -->
+    <color name="card_background">#1E1E1E</color>  <!-- Dark card background -->
+    <color name="text_color_primary">#FFFFFF</color> <!-- White text for dark mode -->
+    <color name="text_color_secondary">#B0B0B0</color> <!-- Lighter secondary text for dark mode -->
+    <color name="button_color">#03DAC6</color> <!-- Light teal for buttons -->
+    <color name="lottie_background">#333333</color> <!-- Lottie background for dark mode -->
+    <color name="image_border_color">#333333</color> <!-- Darker border for images -->
+
+    <!-- Additional Colors -->
+    <color name="yellow">#FFEB3B</color> <!-- Bright yellow -->
+    <color name="dark_gray">#212121</color> <!-- Dark gray for UI elements -->
+    <color name="text_light">#FFFFFF</color> <!-- Light text color -->
+    <color name="text_dark">#000000</color> <!-- Dark text color -->
+    <color name="background_light">#121212</color> <!-- Dark background for consistency -->
+
+</resources>

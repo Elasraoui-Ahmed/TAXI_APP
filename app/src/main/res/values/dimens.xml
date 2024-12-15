@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <dimen name="padding">8dp</dimen>
+   <dimen name="margintop">15dp</dimen>
+   <dimen name="paddinghorizontal">10dp</dimen>
+   <dimen name="marginhor">10dp</dimen>
+   <dimen name="marginLayout">14dp</dimen>
+   <dimen name="margintoppr">8dp</dimen>
+   <dimen name="paddingcard">15dp</dimen>
+   <dimen name="margintopc">30dp</dimen>
+
+   <dimen name="paddingcard2">18dp</dimen>
+
+
+</resources>

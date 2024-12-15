@@ -1,0 +1,30 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Mytaxi</string>
+    <string name="home" tools:ignore="MissingTranslation">Accueil</string>
+    <string name="lang" tools:ignore="MissingTranslation">Langue</string>
+    <string name="profil_title" tools:ignore="MissingTranslation">Profil</string>
+    <string name="start" tools:ignore="MissingTranslation">Démarrer</string>
+    <string name="distancetime" tools:ignore="MissingTranslation">Distance: 0.0 km\nTemps: 0 min</string>
+    <string name="tarif" tools:ignore="MissingTranslation">Tarif Total: 0.0 DH</string>
+    <string name="driver" tools:ignore="MissingTranslation">Ahmed Salmi</string>
+    <string name="age" tools:ignore="MissingTranslation">Âge: 30</string>
+    <string name="License">Licence: Type B</string>
+    <string name="qr">Scanner le QR Code:</string>
+    <string name="mode">mode</string>
+
+        <string name="play">Jouer</string>
+        <string name="pause">Pause</string>
+        <string name="ride_started">Course commencée</string>
+        <string name="total_fare">Tarif Total: %.2f DH</string>
+        <string name="ride_details">Détails de la course</string>
+        <string name="time">Temps: %.2f min</string>
+    <string name="distance_time">Distance: %.2f km | Temps: %s</string>
+        <string name="unable_to_get_location">Impossible d\'obtenir la localisation</string>
+    <string name="choose_your_theme">Choisissez Votre Thème</string>
+    <string name="light_mode">Mode Clair</string>
+    <string name="dark_mode">Mode Sombre</string>
+
+    <string name="english">Anglais</string>
+    <string name="french">Français</string>
+    <string name="arabic">Arabe</string>
+</resources>

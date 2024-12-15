@@ -1,0 +1,29 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Mytaxi</string>
+    <string name="home" tools:ignore="MissingTranslation">الرئيسية</string>
+    <string name="lang" tools:ignore="MissingTranslation">اللغة</string>
+    <string name="profil_title" tools:ignore="MissingTranslation">الملف الشخصي</string>
+    <string name="start" tools:ignore="MissingTranslation">ابدأ</string>
+    <string name="distancetime" tools:ignore="MissingTranslation">المسافة: 0.0 كم\nالوقت: 0 دقيقة</string>
+    <string name="tarif" tools:ignore="MissingTranslation">التعريفة الإجمالية: 0.0 درهم</string>
+    <string name="driver" tools:ignore="MissingTranslation">أحمد سالم</string>
+    <string name="age" tools:ignore="MissingTranslation">العمر: 30</string>
+    <string name="License">الرخصة: النوع B</string>
+    <string name="mode">وضع</string>
+
+    <string name="qr">مسح رمز الاستجابة السريعة:</string>
+    <string name="play">تشغيل</string>
+    <string name="pause">إيقاف</string>
+    <string name="ride_started">بدأت الرحلة</string>
+    <string name="total_fare">الأجرة الإجمالية: %.2f DH</string>
+    <string name="ride_details">تفاصيل الرحلة</string>
+    <string name="time">الوقت: %.2f دقيقة</string>
+    <string name="distance_time">المسافة: %.2f كم | الوقت: %s</string>
+    <string name="unable_to_get_location">تعذر الحصول على الموقع</string>
+    <string name="choose_your_theme">اختر سمة العرض</string>
+    <string name="light_mode">الوضع الفاتح</string>
+    <string name="dark_mode">الوضع الداكن</string>
+    <string name="english">إنجليزي</string>
+    <string name="french">فرنسي</string>
+    <string name="arabic">عربي</string>
+</resources>
